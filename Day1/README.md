@@ -6,9 +6,6 @@
 ## What is Cloud Computing?
 To run an application, you must purchase computing, storage, and hardware. Cloud computing minimizes these upfront expenses, and you can rent or lease hardware from cloud providers such as AWS/Azure/GCP.
 
-<img src="https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/d3e3c678-760f-4b3f-bc31-2817634d1de6" alt="image" width=300 height=300 >
-
-
 
 **Cloud Computing aims at**
 
@@ -71,6 +68,3 @@ In the basic plan, you will get the first 5 users free of cost with all the serv
 - It will create a default organization for you with the name as your email address and then redirect you to your Azure DevOps homepage at https://dev.azure.com/{yourorganizationname}
 - You can create a sample project with the name **Day1_project** and start your learning journey
 
-  
-## References:
-https://medium.com/@piyush.sachdeva055/what-is-devops-cloud-agile-cicd-and-azure-devops-azure-devops-zero-to-hero-full-course-e22225e385cf
