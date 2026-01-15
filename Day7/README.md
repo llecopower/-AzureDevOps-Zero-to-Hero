@@ -1,8 +1,4 @@
-# Day 7 - Azure Artifacts 👨‍💻
-
-## Check out the video below for Day7 👇
-
-[![Day7/16 - Azure Artifacts ](https://img.youtube.com/vi/krK4HTmaCJc/sddefault.jpg)](https://youtu.be/krK4HTmaCJc)
+# Week 7 - Azure Artifacts 👨‍💻
 
 ## Setup your Azure repos with the same application code
 

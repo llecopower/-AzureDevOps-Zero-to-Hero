@@ -1,8 +1,4 @@
-# 🚀 Azure DevOps Release Pipeline - Continous Delivery of a YouTube Clone Website
-
-## Check out the video below for Day5 👇
-
-[![Day5/16 - Azure DevOps Release Pipeline](https://img.youtube.com/vi/acJErWFS15w/sddefault.jpg)](https://youtu.be/acJErWFS15w)
+# 🚀 Week 5 Azure DevOps Release Pipeline - Continous Delivery of a YouTube Clone Website
 
 ## Blue Green Deployments
 

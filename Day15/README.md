@@ -1,7 +1,4 @@
-Day 15/16 Azure DevOps Security Best Practices | What are Azure DevOps Best Practices
-## Check out the video below for Day15 👇
-
-[![Day 15/16 Azure DevOps Security Best Practices | What are Azure DevOps Best Practices](https://img.youtube.com/vi/l5hSkcSRiVI/sddefault.jpg)](https://youtu.be/l5hSkcSRiVI)
+Week 15 Azure DevOps Security Best Practices | What are Azure DevOps Best Practices
 
 ## Below best practices were discussed in detail in the video:
 
@@ -48,7 +45,7 @@ Day 15/16 Azure DevOps Security Best Practices | What are Azure DevOps Best Prac
     - Don’t use Azure Classic service connections, as there’s no way to scope the permissions.
   
 9. **Personal Access tokens**:
-    - A lot of things to be kept in mind while using PAT, it should have restrictive permissions, it should be renewed after a few days, revoked when compromised, and so on.
+    - A lot of things to be kept in mind while using PAT, it should have restrictive permissions, it should be renewed after a few Weeks, revoked when compromised, and so on.
 
 10. **Secrets and credentials access**
     - Secrets should never be hardcoded within the pipeline or Git Repo.

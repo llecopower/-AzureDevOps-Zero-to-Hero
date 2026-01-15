@@ -1,8 +1,4 @@
-# Day 8/16 - Azure DevOps with Terraform 🏗
-
-## Check out the video below for Day8 👇
-
-[![Day8/16 - Azure DevOps with Terraform](https://img.youtube.com/vi/wq_sn9ey4KM/sddefault.jpg)](https://youtu.be/wq_sn9ey4KM)
+# Week 8 - Azure DevOps with Terraform 🏗
 
 ## How Terraform works
 

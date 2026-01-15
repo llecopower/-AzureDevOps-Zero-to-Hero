@@ -1,8 +1,4 @@
-# Day2 Azure Boards and Agile Project Management 📊
-
-# Checkout the video below for Day2
-
-[![Azure DevOps Boards](https://img.youtube.com/vi/vjqhGJMFhFI/sddefault.jpg)](https://youtu.be/vjqhGJMFhFI)
+# Week2 Azure Boards and Agile Project Management 📊
 
 ## Azure DevOps Demo Generator
 **Use these steps to load dummy data into your Azure DevOps project. We will use this data in the demo.**
@@ -174,7 +170,4 @@ A Sprint(also known as Iteration in Azure DevOps) is the amount of time we have 
 
 It's important to note that effective communication and collaboration among these parties are fundamental to the success of Agile or Scrum projects. Roles and responsibilities may vary depending on the Agile framework or methodology used.
 
-## References:
-
-https://medium.com/@piyush.sachdeva055/azure-boards-and-agile-project-management-afe2a7029578
 

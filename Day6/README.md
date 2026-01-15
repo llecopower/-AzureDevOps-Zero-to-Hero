@@ -1,13 +1,7 @@
-# Azure Test Plans :microscope:
-
-## Check out the video below for Day6 👇
-
-[![Day6/16 - Azure Test Plans](https://img.youtube.com/vi/xjRfWldHaps/sddefault.jpg)](https://youtu.be/xjRfWldHaps)
+# Week 6 Azure Test Plans :microscope:
 
 
 ![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/9f52ac37-a943-4a50-8426-0cccf07f5758)
-
-
 
 ## Manual and Exploratory Testing :pencil2:
 

@@ -1,9 +1,5 @@
 
-# 🚀 Azure DevOps Build Pipeline - Build and Deploy a YouTube Clone 
-
-## Check out the video below for Day4 👇
-
-[![Day4/16 - Azure DevOps Build Pipeline](https://img.youtube.com/vi/3Nv-FzzrqYU/sddefault.jpg)](https://youtu.be/3Nv-FzzrqYU)
+# Week4🚀 Azure DevOps Build Pipeline - Build and Deploy a YouTube Clone 
 
 ## Steps to set the infrastructure
 - Login to VSCode or any other IDE of your choice

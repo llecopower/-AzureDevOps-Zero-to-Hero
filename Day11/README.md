@@ -1,9 +1,4 @@
-# Day 11/16 - Azure DevOps CICD Pipeline on Azure Kubernetes Services 🛳️ 🐳
-
-## Check out the video below for Day11 👇
-
-[![Day10/16 - Azure DevOps CICD Pipeline on Azure Container Instances](https://img.youtube.com/vi/mv8qJzyZggE/sddefault.jpg)](https://youtu.be/mv8qJzyZggE)
-
+# Week11 Azure DevOps CICD Pipeline on Azure Kubernetes Services 🛳️ 🐳
 
 ## Kubernetes Architecture
 

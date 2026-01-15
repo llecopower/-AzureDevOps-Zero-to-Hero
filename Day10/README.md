@@ -1,9 +1,4 @@
-# Day 10/16 - Azure DevOps CICD Pipeline on Azure Container Instances 🐳
-
-## Check out the video below for Day10 👇
-
-[![Day10/16 - Azure DevOps CICD Pipeline on Azure Container Instances](https://img.youtube.com/vi/6DJfhwG3DGQ/sddefault.jpg)](https://youtu.be/6DJfhwG3DGQ)
-
+# Week 10 - Azure DevOps CICD Pipeline on Azure Container Instances 🐳
 
 ## Understanding Virtual machine V/s Containers.
 
@@ -125,11 +120,11 @@ stages:
         scriptLocation: 'inlineScript'
         inlineScript: |
           az container create \
-          --name day10app \
-          --resource-group day10-demo \
+          --name Week10app \
+          --resource-group Week10-demo \
           --image $(containerRegistry)/$(imageRepository):$(tag) \
           --registry-login-server $(containerRegistry) \
-          --registry-username day10demo  \
+          --registry-username Week10demo  \
           --registry-password XXXX \
           --dns-name-label aci-demo-piyush101
 ```

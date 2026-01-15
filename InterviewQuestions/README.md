@@ -1,9 +1,4 @@
-# Bonus Video for Azure DevOps Zero to Hero Series - Scenario-based Interview Questions and Solutions
-
-## Check out the video below for Day17 👇
-
-[![Bonus Video for Azure DevOps Zero to Hero Series - Scenario-based Interview Questions and Solutions](https://img.youtube.com/vi/u5uSDMM9ydc/sddefault.jpg)](https://youtu.be/u5uSDMM9ydc)
-
+# Azure DevOps Interview Questions and Solutions
 
 ## Explain a typical structure of an Azure DevOps Pipeline
 
@@ -69,7 +64,7 @@ COPY --from=installer /app/build /usr/share/nginx/html
 ```
 ## Explain some of the Azure DevOps Best Practices:
 
-Check out this [repo](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/blob/main/Day15/README.md) and Day15 Video
+Check out this [repo](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/blob/main/Week15/README.md) and Week15 Video
 
 ## How can you ensure the security and privacy of secrets used in your pipeline to prevent them from being exposed?
 - Azure Key Vault and access via a variable group

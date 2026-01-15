@@ -1,6 +1,4 @@
-# Checkout the video below for Day1
-
-[![Course Introduction](https://img.youtube.com/vi/ME06qJ2VeXA/sddefault.jpg)](https://youtu.be/ME06qJ2VeXA)
+# Week1
 
 
 ## What is Cloud Computing?
@@ -66,5 +64,5 @@ In the basic plan, you will get the first 5 users free of cost with all the serv
 - Sign up for Azure DevOps by clicking 👉 [here](https://azure.microsoft.com/en-us/products/devops/)👈
 - Then click **Start free**
 - It will create a default organization for you with the name as your email address and then redirect you to your Azure DevOps homepage at https://dev.azure.com/{yourorganizationname}
-- You can create a sample project with the name **Day1_project** and start your learning journey
+- You can create a sample project with the name **Week1_project** and start your learning journey
 

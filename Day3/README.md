@@ -1,15 +1,6 @@
-# Day3 - Azure Repos
-
-# Checkout the video below for Day3
-
-[![Azure DevOps Repos](https://img.youtube.com/vi/vN6iY5y4h9Y/sddefault.jpg)](https://youtu.be/vN6iY5y4h9Y)
+# Week3 - Azure Repos
 
 ## What is Azure repos?
-
-**Azure Repos is a set of version control tools that you can use to manage your code, just like GitHub**. Whether your software project is large or small, using version control as soon as possible is a good idea.
-
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/552cf47f-77cc-467f-82e4-6ef8b59c252a)
-
 
 Version control systems are software that helps you track changes you make in your code over time. As you edit your code, you tell the version control system to take a snapshot of your files. The system saves that snapshot permanently so you can recall it later if you need it. Use version control to save your work and coordinate code changes across your team.
 
@@ -63,6 +54,3 @@ Another type of version control system is TFVC, a centralized version control. I
 
 ![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/b39d56b3-19e7-49f1-9c42-99c183f01bbf)
 
-## References
-
-https://medium.com/@piyush.sachdeva055/azure-devops-repos-simplified-469681ed55c2
