@@ -1,15 +1,9 @@
 # AzureDevOps-Zero-to-Hero with real-time projects
-
 Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into concepts, demos, and real-time projects to help you master Azure DevOps and bolster your DevOps skills.
-**This playlist will be published on my YouTube channel and is free for anyone to use and follow.**
 
-### Day 0: Introduction to the Course 👇
-[![Course Introduction](https://img.youtube.com/vi/A_N5oHwwmTQ/sddefault.jpg)](https://youtu.be/A_N5oHwwmTQ)
+### Week 0: Introduction to the Course 👇
 
-
-### Day 1: Introduction to Azure DevOps and Basic Concepts 🌟
-**Status**: Video is live, check out 👉 [Day1](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day1) 👈 folder for notes and useful links ✅
-
+### Week 1: Introduction to Azure DevOps and Basic Concepts 🌟
 - What is Cloud Computing
 - IaaS VS PaaS VS SaaS
 - What is a Shared Responsibility Model
@@ -25,9 +19,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Azure DevOps Pricing
 - Azure DevOps hosting options: Azure DevOps Services VS Azure DevOps Server
 
-### Day 2: Azure Boards and Agile Project Management 📊
-**Status**: Video is live, check out 👉 [Day2](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day2) 👈 folder for notes and useful links ✅
-
+### Week 2: Azure Boards and Agile Project Management 📊
 - What are Azure DevOps Boards 
 - What are Azure board processes, agile, scrum, basic, and CMMI
 - Managing work items in Azure boards
@@ -42,9 +34,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Work item query
 - Customizing team process
 
-### Day 3: Mastering Git and Source Control in Azure DevOps 🌿
-**Status**: Video is live, check out 👉 [Day3](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day3) 👈 folder for notes and useful links ✅
-
+### Week 3: Mastering Git and Source Control in Azure DevOps 🌿
 - Introduction to Source Control and Azure Repos
 - Git vs TFVC
 - Configure Visual Code
@@ -57,10 +47,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Managing Pull requests
 - Sample application code
 
-### Day 4: Build Pipeline 🚀
-**Status**: Video is live, check out 👉 [Day4](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day4) 👈 folder for notes and useful links ✅
-
-
+### Week 4: Build Pipeline 🚀
 #### Note: For the demo, we will be using the YouTube Clone website 
 
 - Provision Azure App Service to host the website.
@@ -71,12 +58,8 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - variables, triggers, Build properties, agents
 - Publishing and Download Build Artifacts
 
-
-### Day5: 🚀 Continuous Delivery with Azure DevOps Release Pipeline
-**Status**: Video is live, check out 👉 [Day5](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day5) 👈 folder for notes and useful links ✅
-
-#### Note: this is a continuation of the previous video.
-
+### Week5: 🚀 Continuous Delivery with Azure DevOps Release Pipeline
+#### continuation
 - Automating Deployment with a multi-stage Release Pipelines
 - Continuous Deployment Triggers
 - Continuous delivery using deployment slots to enable **Blue-Green deployment**
@@ -84,9 +67,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Update the code to test the entire CICD process with the Build and Release pipeline
 
 
-### Day 6: Azure Test Plans and Testing 🧪
-**Status**: Video is live, check out 👉 [Day6](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day6) 👈 folder for notes and useful links ✅
-
+### Week 6: Azure Test Plans and Testing 🧪
 #### Note: We will be using the Youtube Clone website to implement the below steps
 - Azure Test Plan Overview
 - Features of Azure test plan
@@ -95,11 +76,8 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Authoring, Running, and Analyzing Manual Tests
 - Azure Test and Feedback extension
 
-### Day 7: Basic Project Artifacts with Azure Artifacts 📦
-**Status**: Video is live, check out 👉 [Day7](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day7) 👈 folder for notes and useful links ✅
-
-#### Note: In this video, we will use a ✔ Nike Landing page as a sample application for CICD using Azure Artifacts
-
+### Week 7: Basic Project Artifacts with Azure Artifacts 📦
+#### Note: We will use a ✔ Nike Landing page as a sample application for CICD using Azure Artifacts
 - Overview of Azure Artifacts
 - Create the Azure DevOps project and check out the application code
 - Set up the infra using Azure Web App
@@ -109,10 +87,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Promote the package to trigger the release pipeline
 - Upstream packages in Azure Artifacts
 
-### Day 8: Infrastructure as Code (IaC) with Terraform and Azure DevOps🚀
-
-**Status**: Video is live, check out 👉 [Day8](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day8) 👈 folder for notes and useful links ✅
-
+### Week 8: Infrastructure as Code (IaC) with Terraform and Azure DevOps🚀
 - Introduction to IaC and Tools
 - Various Terraform commands and workflow
 - Creating Terraform configuration files
@@ -121,11 +96,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Azure DevOps CI Pipeline to init, plan, and archive the plan file
 - Azure DevOps CD pipeline to apply the changes
 
-
-### Day9: Self Hosted agents 👨‍🔧 on Azure Virtual machine scale sets 🧑‍💻
-
-**Status**: Video is live, check out 👉 [Day9](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day9) 👈 folder for notes and useful links ✅
-
+### Week9: Self Hosted agents 👨‍🔧 on Azure Virtual machine scale sets 🧑‍💻
 - Microsoft-hosted vs. self-hosted agents
 - Use case of self-hosted agents
 - Ways to setup self-hosted agents: VM, VMSS, container
@@ -137,9 +108,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Comparison between self-hosted and Microsoft-hosted agents
 - work folder walkthrough on agent
 
-### Day 10 Managing Containers with Azure DevOps
-**Status**: Video is live, check out 👉 [Day10](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day10) 👈 folder for notes and useful links ✅
-
+### Week 10 Managing Containers with Azure DevOps
 - What is a container
 - Understanding Virtual machine V/s Containers.
 - Challenges with the non-containerized applications
@@ -149,10 +118,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - What are Azure container instances(ACI)
 - Azure DevOps CICD Pipeline to deploy to ACI
 
-
-### Day 11  Implementing end-to-end CICD using Azure DevOps on Kubernetes.
-**Status**: Video is live, check out 👉 [Day11](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day11) 👈 folder for notes and useful links ✅
-
+### Week 11  Implementing end-to-end CICD using Azure DevOps on Kubernetes.
 - Basic Introduction of Kubernetes and its benefits
 - Kubernetes Architecture
 - What is the control plane and its components
@@ -160,12 +126,8 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - What is a Pod/Deployment/Service
 - Azure DevOps CICD Pipeline for a web app running on Kubernetes
 - Sample application: My Health Care - Microservices-based Healthcare management app
-
-
   
-### Day 12  Security and Permissions in Azure DevOps 🔐
-**Status**: Video is live, check out 👉 [Day12](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day12) 👈 folder for notes and useful links ✅
-
+### Week 12  Security and Permissions in Azure DevOps 🔐
 - Enabling advanced security in Azure DevOps
 - Dependency Scanning
 - Secret scanning and managing alerts
@@ -173,29 +135,21 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Code scanning for vulnerabilities
 - Sample Application: My Health Care - Microservices-based Healthcare management app
 
-### Day 13: Serverless app CICD 🐳
-**Status**: Video is live, check out 👉 [Day13](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day13) 👈 folder for notes and useful links ✅
-
+### Week 13: Serverless app CICD 🐳
 - Introduction to Azure functions
 - Use case and benefits of an Azure function
 - Introduction to the sample app to be used for this demo: Serverless QR Code Generator
 - Demo creating the Azure function and deploying locally
 - Publishing the function to Azure using CLI tools
 - Build and release pipeline for building and deploying the code to Azure Functions
-
   
-### Day 14: Azure DevOps wiki
-**Status**: Video is live, check out 👉 [Day14](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day14) 👈 folder for notes and useful links ✅
-
+### Week 14: Azure DevOps wiki
 - Overview of wiki
 - Creating and editing a project Wiki
 - Publishing code as Wiki
 - How we can use Azure DevOps wiki to collaborate on a project
 
-
-### Day 15: Azure DevOps Security best practices 🚢
-**Status**: Video is live, check out 👉 [Day15](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day15) 👈 folder for notes and useful links ✅
-
+### Week 15: Azure DevOps Security best practices 🚢
 - Azure DevOps Access Control
 - Organization Settings
 - Agent pools Management
@@ -206,14 +160,11 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Authentication and Authorization
 - Secrets and credentials access
 
-
-### Day 16: Issue and troubleshooting Azure DevOps
-- In this video, we will discuss the most common issues you have faced throughout the series and solutions to those.
-**Status**: Video is live, check out 👉 [Day16](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day16) 👈 folder for notes and useful links ✅
+### Week 16: Issue and troubleshooting Azure DevOps
+- We will discuss the most common issues you have faced throughout the series and solutions to those.
   
-### Day 17: Bonus Video: Azure DevOps Scenario-based Interview Questions
-- In this video, we will discuss the most asked scenario-based interview questions and answers for Azure DevOps
-**Status**: Video is live, check out 👉 [InterviewQuestions](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/InterviewQuestions) 👈 folder for notes and useful links ✅
+### Azure DevOps Scenario-based Interview Questions
+- We will discuss the most asked scenario-based interview questions and answers for Azure DevOps
 
 
  
